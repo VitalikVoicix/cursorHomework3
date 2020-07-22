@@ -1,0 +1,31 @@
+body{
+    background-color: coral;
+}
+.question{
+    width: auto;
+    height: 200;
+    border: crimson 2px solid;
+    margin: 20px;
+    padding: 15px;
+}
+button {
+    width: 30px;
+    height: 25px;
+    background-color: darkgreen;
+    position: relative;
+    left: 30px;
+   
+}
+input {
+    background-color: lightsalmon;
+
+}
+h1{
+    position: fixed;
+    bottom:180px;
+    color: maroon;
+}
+p{
+  color: maroon;
+  font-size:larger;
+}
